@@ -1,5 +1,5 @@
-# MathTestV1.0
-Math Test V1.0|Developed By:Sina Fesahati|https://github.com/SinaFesahati/MathTestV1.0
+# MathTest
+Math Test |Developed By:Sina Fesahati|https://github.com/SinaFesahati/MathTestV1.0
 **************************************************************************************
 Description:
 Basic Console Application in C++ With srand(time(NULL)) and If-else.
