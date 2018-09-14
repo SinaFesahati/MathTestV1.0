@@ -11,6 +11,6 @@ Guide:
 3-Answer The Questions Correctly(5 Question with 20 Points)
 4-Look at your Score
 **************************************************************************************
-Github:https://github.com/SinaFesahati
-Twitter:https://twitter.com/sinafesahati
+Github:https://github.com/Sinafi
+Twitter:https://twitter.com/sinafi
 Thank you for Read!
