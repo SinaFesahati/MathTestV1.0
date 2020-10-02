@@ -5,7 +5,7 @@
 #include <time.h>
 int main() 
 {
-	cout<<"Welcome To Math Test V1.0|Developed By:Sina Fesahati|https://github.com/SinaFesahati/MathTest"<<endl<<"1.Easy     2.Hard"<<endl;
+	cout<<"Welcome To Math Test V1.0|Developed By:Sina Fi|https://github.com/SinaFi/MathTest"<<endl<<"1.Easy     2.Hard"<<endl;
 	int level;
 	cin>>level;
 	if(level==1)
