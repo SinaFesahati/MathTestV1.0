@@ -6,5 +6,5 @@ Basic Console Application in C++ With srand(time(NULL)) and If-else.
 You can also do mental calculation With a lot of work in Math TestV1.0!
 
 Github:https://github.com/Sinafi
-Twitter:https://twitter.com/sinafesahati
+Twitter:https://twitter.com/sinafi0
 Thank you for Read!
